@@ -1,8 +1,10 @@
 # An analysis of spectral similarity measures
 Code for the paper *An analysis of spectral similarity measures*.
 
-## Dependencies:
+## Dependencies
 * Python 3.9
+* numpy
+* scikit-image
 
 The `requirements.txt` file should list all Python libraries that this code
 depends on, and they will be installed using:
