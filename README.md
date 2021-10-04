@@ -6,9 +6,7 @@ Code for the paper *An analysis of spectral similarity measures*. In the paper t
 * numpy
 * scikit-image
 
-The `requirements.txt` file should list all Python libraries that this code
-depends on, and they will be installed using:
-
+In order to successfully run the code, install the packages listed in `requirements.txt` as follows:
 ```
 pip install -r requirements.txt
 ```
