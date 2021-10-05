@@ -15,7 +15,7 @@ pip install -r requirements.txt
 If you use our code, please consider cite the following:
 * Mirko Agarla, Simone Bianco, Luigi Celona, Raimondo Schettini, and Mikhail Tchobanou. An analysis of spectral similarity measures. In _Color and Imaging Conference_, _volume 2021_, Society for Imaging Science and Technology, pp. -, 2021.
 ```
-@article{agarla2021spectralmeasures,
+@inproceedings{agarla2021spectralmeasures,
  author = {Agarla, Mirko and Bianco, Simone and Celona, Luigi and Schettini, Raimondo and Tchobanou, Mikhail},
  year = {2021},
  title = {An analysis of spectral similarity measures},
