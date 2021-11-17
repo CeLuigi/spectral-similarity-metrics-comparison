@@ -22,8 +22,9 @@ If you use our code, please consider cite the following:
  organization = {Society for Imaging Science and Technology},
  booktitle = {Color and Imaging Conference},
  volume = {2021},
- number = {},
- pages = {},
+ number = {6},
+ doi = {https://doi.org/10.2352/issn.2169-2629.2021.29.300},
+ pages = {300--305},
 }
 ```
 
