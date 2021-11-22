@@ -1,5 +1,5 @@
 # An analysis of spectral similarity measures
-Code for the paper *An analysis of spectral similarity measures*. In the paper the most used measures for the assessment of spectral similarity are analyzed.
+Code for the paper *An analysis of spectral similarity measures*. In the paper the most used measures for the assessment of spectral similarity are analyzed. Please read the [paper](https://www.ingentaconnect.com/content/ist/cic/2021/00002021/00000029/art00049) for details.
 
 ## Dependencies
 * Python 3.9
